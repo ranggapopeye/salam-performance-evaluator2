@@ -36,7 +36,7 @@ export const ResultsDisplay = ({ results }: ResultsDisplayProps) => {
               padding: 0;
               line-height: 1.4;
               /* Gambar kop surat A4 sebagai latar belakang penuh halaman */
-              background-image: url('/lovable-uploads/61ff049b-f848-427a-8634-9504d5931b26.png'); 
+              background-image: url('/uploads/61ff049b-f848-427a-8634-9504d5931b26.png'); 
               background-size: 100% 100%; /* Ukuran A4: lebar 210mm, tinggi 297mm */
               background-repeat: no-repeat;
               background-position: top left; /* Posisikan di pojok kiri atas */
